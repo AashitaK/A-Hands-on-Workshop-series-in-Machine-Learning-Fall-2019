@@ -14,7 +14,7 @@ Machine learning algorithms will be introduced with a “learn-by-doing” appro
 * Underfitting and Overfitting to the training dataset, Cross-validation and k-fold Cross-validation
 * Imbalanced datasets 
 * Classification metrices - Confusion matrix, Decision Threshold, Precision/Recall, F1-score, Area Under ROC curve, etc.
-* Application of the above tools and concepts to build a prediction model using Election Dataset by ANES.
+* Application of the above tools and concepts to build a prediction model using Election Dataset by [ANES](https://electionstudies.org/).
 
 #### Session 4: 
 * Introducing the intuition of neural networks starting from linear and logistic regression using cost function and gradient descent
