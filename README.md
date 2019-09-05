@@ -11,7 +11,7 @@ Machine learning algorithms will be introduced with a “learn-by-doing” appro
 * Data manipulation using `pandas`
 * Data visualization using `matplotlib` and `seaborn`
 * Traditional machine learning algorithms including Decision Trees, Random Forest, Support Vector Machines (SVM), k-Nearest Neighbors (k-NN) using `scikit-learn`
-* Overfitting to the training set, cross-validation and k-fold cross-validation
+* Underfitting and Overfitting to the training dataset, Cross-validation and k-fold Cross-validation
 * Imbalanced datasets 
 * Classification metrices - Confusion matrix, Decision Threshold, Precision/Recall, F1-score, Area Under ROC curve, etc.
 * Application of the above tools and concepts to build a prediction model using Election Dataset by ANES.
