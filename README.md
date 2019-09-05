@@ -1,6 +1,6 @@
 ### A Hands-on Workshop series in Machine Learning 
-Time: 05:45-7:45 PM for seven consecutive Wednesdays starting Oct 02 to Nov 13, 2019    
-Venue: Aviation Room, Hoch-Shanahan Dining Commons (385 Platt Blvd. in HMC campus) 
+Time: 05:45-7:45 PM for 7 consecutive Wednesdays starting Oct 02 to Nov 13, 2019    
+Venue: Aviation Room, Hoch-Shanahan Dining Commons (385 Platt Blvd.) 
 
 The workshop is open to everyone from The Claremont Colleges on a first-come first-serve basis. Please [register here](https://forms.gle/3VdVMqV1EctC7aiE6).
 
@@ -8,8 +8,8 @@ Machine learning algorithms will be introduced with a “learn-by-doing” appro
 
 Topics covered:  
 Sessions 1-3: 
-* Data manipulation using pandas 
-* Data visualation using matplotlib and seaborn
+* Data manipulation using `pandas`
+* Data visualization using `matplotlib` and `seaborn`
 * Traditional machine learning algorithms including Decision Trees, Random forest, Support Vector Machines (SVM), k-Nearest Neighbors (k-NN) using scikit-learn
 * Overfitting to the training set, cross-validation and k-fold cross-validation
 * Imbalanced datasets 
@@ -19,7 +19,7 @@ Sessions 1-3:
 Session 4: 
 * Introducing the intuition of neural networks starting from linear and logistic regression using cost function and gradient descent
 * Multi-layer perception: Forward and Backward propogation
-* A primer on Keras
+* A primer on `Keras`
 * Training a neural network on Election Dataset
 
 Session 5:
