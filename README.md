@@ -1,13 +1,13 @@
 ### A Hands-on Workshop series in Machine Learning 
-Time: 05:45-7:45 PM for 7 consecutive Wednesdays starting Oct 02 to Nov 13, 2019    
-Venue: Aviation Room, Hoch-Shanahan Dining Commons (385 Platt Blvd.) 
+Time: **05:45-7:45 pm** for 7 consecutive **Wednesdays** starting **Oct 02 to Nov 13, 2019**   
+Venue: **Aviation Room, Hoch-Shanahan Dining Commons, HMC** 
 
 The workshop is open to everyone from The Claremont Colleges on a first-come first-serve basis. Please [register here](https://forms.gle/3VdVMqV1EctC7aiE6).
 
 Machine learning algorithms will be introduced with a “learn-by-doing” approach using python tools such as pandas, seaborn, scikit-learn, keras, etc. on real-world datasets.
 
-Topics covered:  
-Sessions 1-3: 
+### Topics covered:  
+#### Sessions 1-3: 
 * Data manipulation using `pandas`
 * Data visualization using `matplotlib` and `seaborn`
 * Traditional machine learning algorithms including Decision Trees, Random forest, Support Vector Machines (SVM), k-Nearest Neighbors (k-NN) using scikit-learn
@@ -16,13 +16,13 @@ Sessions 1-3:
 * Classification metrices - Confusion matrix, Decision Threshold, Precision/Recall, F1-score, Area Under ROC curve, etc.
 * Application of the above tools and concepts to build a prediction model using Election Dataset by ANES.
 
-Session 4: 
+#### Session 4: 
 * Introducing the intuition of neural networks starting from linear and logistic regression using cost function and gradient descent
 * Multi-layer perception: Forward and Backward propogation
 * A primer on `Keras`
 * Training a neural network on Election Dataset
 
-Session 5:
+#### Session 5:
 * Vanishing gradient problem
 * Various activation functions and when to use them
 * Regularization
@@ -31,12 +31,12 @@ Session 5:
 * Dimensionality reduction techniques such as PCA
 * Application of the above concepts on Bike Sharing Dataset
 
-Session 6: 
+#### Session 6: 
 * Image preprocessing
 * Convolution Neural Networks architecture (CNN)
 * Training a CNN model on MNIST dataset
 
-Session 7:
+#### Session 7:
 * A brief overview of Advanced Neural Network architectures used in Computer Vision
 * Autoencoders
 * An overview of computing and dataset resources
