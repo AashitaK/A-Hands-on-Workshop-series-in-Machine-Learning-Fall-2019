@@ -43,7 +43,6 @@ Session 7:
 * A small project
 * Open questions
 
-
 Note: The topics may be shuffled around and added/eliminated without notice, in view of time-constraints for the two hour sessions, as the learning material is build on.
 
 The learning material will be made available in this [Github repository](https://github.com/AashitaK/A-Hands-on-Workshop-series-in-Machine-Learning) a few minutes before each session.
