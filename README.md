@@ -18,7 +18,7 @@ Machine learning algorithms will be introduced with a “learn-by-doing” appro
 
 #### Session 4: 
 * Introducing the intuition of neural networks starting from linear and logistic regression using cost function and gradient descent
-* Multi-layer perception: Forward and Backward propogation
+* Multi-Layer Perception: Forward and Backward propagation
 * A primer on `Keras`
 * Training a neural network on Election Dataset
 
