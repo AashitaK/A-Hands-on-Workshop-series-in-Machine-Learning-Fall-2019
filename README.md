@@ -1,4 +1,4 @@
-### A Hands-on Workshop series in Machine Learning 
+## A Hands-on Workshop series in Machine Learning 
 Time: **05:45-7:45 pm** for 7 consecutive **Wednesdays** starting **Oct 02 to Nov 13, 2019**   
 Venue: **Aviation Room, Hoch-Shanahan Dining Commons, HMC** 
 
