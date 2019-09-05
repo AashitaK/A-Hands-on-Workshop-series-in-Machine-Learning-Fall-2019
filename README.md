@@ -37,7 +37,7 @@ Machine learning algorithms will be introduced with a “learn-by-doing” appro
 * Training a CNN model on MNIST dataset
 
 #### Session 7:
-* A brief overview of neural network architectures used in Computer Vision
+* A brief overview of neural network frameworks/architectures used in Computer Vision
 * Autoencoders
 * An overview of computing and dataset resources
 * A small project
