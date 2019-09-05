@@ -2,7 +2,7 @@
 Time: 05:45-7:45 PM for seven consecutive Wednesdays starting Oct 02, 2019 to Nov 13, 2019    
 Venue: Aviation Room, Hoch-Shanahan Dining Commons located at 385 Platt Blvd. in HMC campus 
 
-The workshop is open to all students in The Claremont Colleges on a first-come first-serve basis. Please [register here](https://forms.gle/3VdVMqV1EctC7aiE6).
+The workshop is open to everyone from The Claremont Colleges on a first-come first-serve basis. Please [register here](https://forms.gle/3VdVMqV1EctC7aiE6).
 
 Machine learning algorithms will be introduced with a “learn-by-doing” approach using python tools such as pandas, seaborn, scikit-learn, keras, etc. on real-world datasets.
 
