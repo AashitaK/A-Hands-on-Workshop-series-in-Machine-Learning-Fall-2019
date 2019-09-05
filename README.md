@@ -18,7 +18,7 @@ Session 4:
 * Introducing the intuition of neural networks starting from linear and logistic regression using cost function and gradient descent
 * Multi-layer perception: Forward and Backward propogation
 * A primer on Keras
-* Training a neural network on a dataset
+* Training a neural network on Election Dataset
 
 Session 5:
 * Vanishing gradient problem
@@ -27,7 +27,7 @@ Session 5:
 * Dropout
 * Tuning other hyper-parameters such as learning rate, number of epochs, etc.
 * Dimensionality reduction techniques such as PCA
-* Application of the above concepts on Bike sharing problem
+* Application of the above concepts on Bike Sharing Dataset
 
 Session 6: 
 * Image preprocessing
