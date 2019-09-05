@@ -1,6 +1,7 @@
 ### A Hands-on Workshop series in Machine Learning 
 Time: 05:45-7:45 PM for seven consecutive Wednesdays starting Oct 02, 2019 to Nov 13, 2019    
 Venue: Aviation Room, Hoch-Shanahan Dining Commons located at 385 Platt Blvd. in HMC campus 
+Registration: https://forms.gle/3VdVMqV1EctC7aiE6
 
 Machine learning algorithms will be introduced with a “learn-by-doing” approach using python tools such as pandas, seaborn, scikit-learn, keras, etc. on real-world datasets.
 
@@ -41,3 +42,7 @@ Session 7:
 
 
 Note: The topics may be shuffled around and added/eliminated without notice, in view of time-constraints for the two hour sessions, as the learning material is build on.
+
+The learning material will be made in this [Github repository](https://github.com/AashitaK/A-Hands-on-Workshop-series-in-Machine-Learning) a few minutes before each session.
+
+This page will be frequently updated with more information.
