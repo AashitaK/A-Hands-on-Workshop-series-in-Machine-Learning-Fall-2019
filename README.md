@@ -8,10 +8,12 @@ Machine learning algorithms will be introduced with a “learn-by-doing” appro
 
 Topics covered:  
 Sessions 1-3: 
-* Data manipulation using pandas, 
+* Data manipulation using pandas 
 * Data visualation using matplotlib and seaborn
 * Traditional machine learning algorithms including Decision Trees, Random forest, Support Vector Machines (SVM), k-Nearest Neighbors (k-NN) using scikit-learn
 * Overfitting to the training set, cross-validation and k-fold cross-validation
+* Imbalanced datasets 
+* Classification metrices - Confusion matrix, Decision Threshold, Precision/Recall, F1-score, Area Under ROC curve, etc.
 * Application of the above tools and concepts to build a prediction model using Election Dataset by ANES.
 
 Session 4: 
