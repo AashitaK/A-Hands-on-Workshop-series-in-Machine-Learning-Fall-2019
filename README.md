@@ -6,7 +6,7 @@ The workshop is open to everyone from The Claremont Colleges on a first-come fir
 
 Machine learning algorithms will be introduced with a “learn-by-doing” approach using python tools such as pandas, seaborn, scikit-learn, keras, etc. on real-world datasets.
 
-### Topics covered:  
+### Topics to be covered:  
 #### Sessions 1-3: 
 * Data manipulation using `pandas`
 * Data visualization using `matplotlib` and `seaborn`
