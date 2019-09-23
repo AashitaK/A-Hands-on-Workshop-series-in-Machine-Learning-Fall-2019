@@ -6,7 +6,7 @@ Please ***[register here](https://forms.gle/3VdVMqV1EctC7aiE6)*** if you plan to
 
 Machine learning algorithms will be introduced with a “learn-by-doing” approach using python tools such as pandas, seaborn, scikit-learn, keras, etc. on real-world datasets. 
 
-Each session of the workshop will build on the previous ones. The learning material will be made available in [this Github repository](https://github.com/AashitaK/A-Hands-on-Workshop-series-in-Machine-Learning) a few minutes before each session. The solutions to the hands-on exercises will be uploaded in [the same Github repository](https://github.com/AashitaK/A-Hands-on-Workshop-series-in-Machine-Learning) once the session ends.
+Each session of the workshop will build on the previous ones. The learning material will be made available in [this Github repository](https://github.com/AashitaK/A-Hands-on-Workshop-series-in-Machine-Learning) a few minutes before each session. The solutions to the hands-on exercises will be uploaded in [the same repository](https://github.com/AashitaK/A-Hands-on-Workshop-series-in-Machine-Learning) after each session.
 
 #### Pre-requisites:
 1. The workshops will cover the data science and deep learning tools in the Python ecosystem from the scratch. Some familiarity with Python is a pre-requisite. If you have a grip on the basics of coding in some other language such as Javascript, that should suffice too. 
