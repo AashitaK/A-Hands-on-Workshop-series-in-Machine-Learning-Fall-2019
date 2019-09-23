@@ -9,7 +9,7 @@ Machine learning algorithms will be introduced with a “learn-by-doing” appro
 Each session of the workshop will build on the previous ones. The learning material will be made available in [this Github repository](https://github.com/AashitaK/A-Hands-on-Workshop-series-in-Machine-Learning) a few minutes before each session. The solutions to the hands-on exercises will be uploaded in [the same repository](https://github.com/AashitaK/A-Hands-on-Workshop-series-in-Machine-Learning) after each session.
 
 #### Pre-requisites:
-1. The workshops will cover the data science and deep learning tools in the Python ecosystem from the scratch. Some familiarity with Python is a pre-requisite. If you have a grip on the basics of coding in some other language such as Javascript, that should suffice too. 
+1. The workshop will cover the data science and deep learning tools in the Python ecosystem from the scratch. Some familiarity with Python is a pre-requisite. If you have a grip on the basics of coding in some other language such as Javascript, that should suffice too. 
 2. Some familiarity with probability and statistics.
 
 #### What to bring:  
