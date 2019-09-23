@@ -26,10 +26,10 @@ Please bring your laptop fully charged with WiFi connection. Please [download an
 * Application of the above tools and concepts to build a prediction model using Election Dataset by [ANES](https://electionstudies.org/).
 
 #### Session 4: 
-* Introducing the intuition of neural networks starting from linear and logistic regression using cost function and gradient descent
+* Building the intuition of the training process of neural networks using the cost function and gradient descent algorithm in linear and logistic regression.
 * Multi-Layer Perception: Forward and Backward propagation
 * A primer on `Keras`
-* Training a neural network on Election Dataset
+* Training a neural network on Election Dataset by [ANES]
 
 #### Session 5:
 * Vanishing gradient problem
@@ -37,6 +37,7 @@ Please bring your laptop fully charged with WiFi connection. Please [download an
 * Regularization
 * Dropout
 * Tuning other hyper-parameters such as learning rate, number of epochs, etc.
+* Batch normalization
 * Dimensionality reduction techniques such as PCA
 * Application of the above concepts on Bike Sharing Dataset
 
