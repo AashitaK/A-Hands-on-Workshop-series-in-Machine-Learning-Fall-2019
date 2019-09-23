@@ -13,7 +13,7 @@ Each session of the workshop will build on the previous ones. The learning mater
 2. Some familiarity with probability and statistics.
 
 #### What to bring:  
-Please bring your laptop fully charged with WiFi connection. Please [download and install Anaconda with Python 3.7](https://www.anaconda.com/distribution/) in your laptop ahead of the workshop.  
+Please bring your laptop fully charged and with WiFi connection. Please [download and install Anaconda with Python 3.7 version](https://www.anaconda.com/distribution/) in your laptop ahead of the workshop.  
 
 ### Topics to be covered:  
 #### Sessions 1-3: 
