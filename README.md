@@ -4,7 +4,13 @@ Venue: **Aviation Room, Hoch-Shanahan Dining Commons, HMC**
 
 The workshop is open to everyone from The Claremont Colleges on a first-come first-serve basis. Please [register here](https://forms.gle/3VdVMqV1EctC7aiE6).
 
-Machine learning algorithms will be introduced with a “learn-by-doing” approach using python tools such as pandas, seaborn, scikit-learn, keras, etc. on real-world datasets.
+Machine learning algorithms will be introduced with a “learn-by-doing” approach using python tools such as pandas, seaborn, scikit-learn, keras, etc. on real-world datasets. 
+
+Each session of the workshop will build on the previous ones. The learning material will be made available in [this Github repository](https://github.com/AashitaK/A-Hands-on-Workshop-series-in-Machine-Learning) a few minutes before each session.
+
+Pre-requisites:
+1. The workshops will cover the data science and deep learning tools in the Python ecosystem from the scratch. Some familiarity with Python is a pre-requisite. If you have a grip on the basics of coding in some other language such as Javascript, that should suffice too. 
+2. Some familiarity with probability and statistics.
 
 ### Topics to be covered:  
 #### Sessions 1-3: 
@@ -45,6 +51,5 @@ Machine learning algorithms will be introduced with a “learn-by-doing” appro
 
 ***The topics may be shuffled around and added/eliminated without notice, in view of time-constraint for the two hour sessions, as the learning material is build on.***
 
-The learning material will be made available in [this Github repository](https://github.com/AashitaK/A-Hands-on-Workshop-series-in-Machine-Learning) a few minutes before each session.
 
 This page will be frequently updated with more information.
