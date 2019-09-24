@@ -24,6 +24,7 @@ Please bring your laptop fully charged and with WiFi connection. Please [downloa
 * Imbalanced datasets 
 * Classification metrices - Confusion matrix, Decision Threshold, Precision/Recall, F1-score, Area Under ROC curve, etc.
 * Application of the above tools and concepts to build a prediction model using Election Dataset by [ANES](https://electionstudies.org/)
+* Publishing independent projects and sharing work using Github Pages and Kaggle
 
 #### Session 4: 
 * Building the intuition of the training process of neural networks using the cost function and gradient descent algorithm in linear and logistic regression.
@@ -51,6 +52,7 @@ Please bring your laptop fully charged and with WiFi connection. Please [downloa
 * Transfer Learning
 * Autoencoders
 * An overview of computing and dataset resources
+* Using Anaconda as a package management and environment management tool
 * A small project
 * Open questions
 
