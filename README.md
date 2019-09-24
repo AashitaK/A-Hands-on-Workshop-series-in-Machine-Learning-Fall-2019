@@ -23,16 +23,16 @@ Please bring your laptop fully charged and with WiFi connection. Please [downloa
 * Underfitting and Overfitting to the training dataset, Cross-validation and k-fold Cross-validation
 * Imbalanced datasets 
 * Classification metrices - Confusion matrix, Decision Threshold, Precision/Recall, F1-score, Area Under ROC curve, etc.
-* Application of the above tools and concepts to build a prediction model using Election Dataset by [ANES](https://electionstudies.org/).
+* Application of the above tools and concepts to build a prediction model using Election Dataset by [ANES](https://electionstudies.org/)
 
 #### Session 4: 
 * Building the intuition of the training process of neural networks using the cost function and gradient descent algorithm in linear and logistic regression.
 * Multi-Layer Perception: Forward and Backward propagation
 * A primer on `Keras`
-* Training a neural network on Election Dataset by [ANES]
+* Training a neural network on Election Dataset by [ANES](https://electionstudies.org/)
 
 #### Session 5:
-* Vanishing gradient problem
+* Vanishing gradient problem in deep networks
 * Various activation functions and when to use them
 * Regularization
 * Dropout
