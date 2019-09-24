@@ -48,6 +48,7 @@ Please bring your laptop fully charged and with WiFi connection. Please [downloa
 
 #### Session 7:
 * A brief overview of neural network frameworks/architectures used in Computer Vision
+* Transfer Learning
 * Autoencoders
 * An overview of computing and dataset resources
 * A small project
