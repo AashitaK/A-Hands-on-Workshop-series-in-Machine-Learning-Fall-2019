@@ -2,11 +2,13 @@
 Time: **05:45-7:45 pm** for 7 consecutive **Wednesdays** starting **Oct 02 to Nov 13, 2019**   
 Venue: **Aviation Room, Hoch-Shanahan Dining Commons, HMC** 
 
-Please ***[register here](https://forms.gle/3VdVMqV1EctC7aiE6)*** if you plan to attend. The workshop is open to everyone from The Claremont Colleges on a first-come first-serve basis.
+The workshop series is designed with a focus on the practical aspects of machine learning using real-world datasets using the tools in the Python ecosystem. It is targeted towards complete beginners familiar with Python but is also designed adaptively so that you will be challenged even if you have some familiarity with machine learning tools. 
 
-Machine learning algorithms will be introduced with a “learn-by-doing” approach using python tools such as pandas, seaborn, scikit-learn, keras, etc. on real-world datasets. 
+You will learn the minimal but most useful tools for exploring datasets using pandas quickly and then move on to the conventional machine learning algorithms and other related concepts that comes in handy for all models including neural networks. The neural networks will be introduced gently from the fourth session onwards and you will learn some more involved architectures such as Convolution Neural Networks (CNN) and apply them to real-world datasets. The sessions will be a good mix of theory explained intuitively in a simplified manner and hands-on exercises.
 
-Each session of the workshop will build on the previous ones. The learning material will be made available in [this Github repository](https://github.com/AashitaK/A-Hands-on-Workshop-series-in-Machine-Learning) a few minutes before each session. The solutions to the hands-on exercises will be uploaded in [the same repository](https://github.com/AashitaK/A-Hands-on-Workshop-series-in-Machine-Learning) after each session.
+The workshop is open to everyone from The Claremont Colleges on a first-come first-serve basis. Seats are limited, please ***[register here](https://forms.gle/3VdVMqV1EctC7aiE6)*** if you plan to attend. 
+
+Each session of the workshop will build on the previous ones. It is important that you attend all the sessions of the series for it to be useful. The learning material will be made available in [this Github repository](https://github.com/AashitaK/A-Hands-on-Workshop-series-in-Machine-Learning) a few minutes before each session. The solutions to the hands-on exercises will be uploaded in [the same repository](https://github.com/AashitaK/A-Hands-on-Workshop-series-in-Machine-Learning) after each session.
 
 #### Pre-requisites:
 1. The workshop will cover the data science and deep learning tools in the Python ecosystem from the scratch. Some familiarity with Python is a pre-requisite. If you have a grip on the basics of coding in some other language such as Javascript, that should suffice too. 
