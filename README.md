@@ -12,9 +12,9 @@ Each session of the workshop will build on the previous ones. It is important th
 
 #### Pre-requisites:
 1. The workshop will cover the data science and deep learning tools in the Python ecosystem from the scratch. Some familiarity with Python is a pre-requisite. If you have a grip on the basics of coding in some other language such as Javascript, that should suffice too. 
-2. Basics of probability and statistics.
-3. Basics of Calculus such as derivatives and gradients
-4. Basics of Linear Algebra such as matrix multiplication
+2. Basics of probability and statistics  such as mean, median, pearson's corelation coefficient, etc.
+3. Basics of Calculus such as derivatives(chain rule) and gradients
+4. Basics of Linear Algebra such as matrix multiplication, linear independence of vectors, etc.
 
 #### What to bring:  
 Please bring your laptop fully charged and with WiFi connection. Please [download and install Anaconda with Python 3.7 version](https://www.anaconda.com/distribution/) in your laptop ahead of the workshop.  
