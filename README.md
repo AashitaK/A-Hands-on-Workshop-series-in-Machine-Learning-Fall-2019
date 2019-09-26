@@ -1,5 +1,5 @@
 ## A Hands-on Workshop series in Machine Learning 
-Time: **05:45-7:45 pm** for 7 consecutive **Wednesdays** starting **Oct 02 to Nov 13, 2019**   
+Time: **5:45-7:45 pm** on 7 consecutive **Wednesdays** starting **Oct 02 to Nov 13, 2019**   
 Venue: **Aviation Room, Hoch-Shanahan Dining Commons, HMC** 
 
 The workshop series is designed with a focus on the practical aspects of machine learning using real-world datasets and the tools in the Python ecosystem. It is targeted towards complete beginners familiar with Python but is also designed adaptively so that you will be challenged even if you have some familiarity with machine learning tools. 
@@ -12,9 +12,9 @@ Each session of the workshop will build on the previous ones. It is important th
 
 #### Pre-requisites:
 1. The workshop will cover the data science and deep learning tools in the Python ecosystem from the scratch. Some familiarity with Python is a pre-requisite. If you have a grip on the basics of coding in some other language such as Javascript, that should suffice too. 
-2. Basics of probability and statistics  such as mean, median, pearson's corelation coefficient, etc.
-3. Basics of Calculus such as derivatives(chain rule) and gradients
-4. Basics of Linear Algebra such as matrix multiplication, linear independence of vectors, etc.
+2. Basics of probability and statistics
+3. Basics of Calculus
+4. Basics of Linear Algebra
 
 #### What to bring:  
 Please bring your laptop fully charged and with WiFi connection. Please [download and install Anaconda with Python 3.7 version](https://www.anaconda.com/distribution/) in your laptop ahead of the workshop.  
