@@ -4,6 +4,7 @@ Venue: **Aviation Room, Hoch-Shanahan Dining Commons, HMC**
 
 The seats are already claimed for the workshop, including the waitlist. We are accepting [registration](https://forms.gle/3VdVMqV1EctC7aiE6) for waitlist for later sessions, in case the participants drop out. The workshop material will be made available here along with the lecture capture after each session. 
 
+
 The workshop series is designed with a focus on the practical aspects of machine learning using real-world datasets and the tools in the Python ecosystem. It is targeted towards complete beginners familiar with Python but is also designed adaptively so that you will be challenged even if you have some familiarity with machine learning tools. 
 
 You will learn the minimal but most useful tools for exploring datasets using pandas quickly and then move on to the conventional machine learning algorithms and other related concepts that comes in handy for all models including neural networks. The neural networks will be introduced gently from the fourth session onwards and you will learn some more involved architectures such as Convolution Neural Networks (CNN) and apply them to real-world datasets. The sessions will be a good mix of theory explained intuitively in a simplified manner and hands-on exercises.
