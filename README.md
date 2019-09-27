@@ -2,7 +2,7 @@
 Time: **5:45-7:45 pm** on 7 consecutive **Wednesdays** starting **Oct 02 to Nov 13, 2019**   
 Venue: **Aviation Room, Hoch-Shanahan Dining Commons, HMC**   
 
-The registration for the workshop is closed.
+The seats are already claimed for the workshop, including the waitlist. We are accepting [registration](https://forms.gle/3VdVMqV1EctC7aiE6) for waitlist for later sessions, in case the participants drop out. The workshop material will be made available here along with the lecture capture after each session. 
 
 The workshop series is designed with a focus on the practical aspects of machine learning using real-world datasets and the tools in the Python ecosystem. It is targeted towards complete beginners familiar with Python but is also designed adaptively so that you will be challenged even if you have some familiarity with machine learning tools. 
 
