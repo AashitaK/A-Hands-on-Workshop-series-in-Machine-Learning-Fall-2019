@@ -36,7 +36,7 @@ Please bring your laptop fully charged and with WiFi connection. Please [downloa
 * More on `pandas` - Groupby operations
 * Machine Learning algorithms: Decision Trees and Random Forest using `scikit-learn`
 * Underfitting and Overfitting to the training dataset, Model cross-validation 
-* Mini-project: Build a prediction model using Election Dataset by [American National Election Study](https://electionstudies.org/) using the above tools and concepts 
+* Mini-project: Building a prediction model using Election Dataset by [American National Election Study](https://electionstudies.org/) using the above tools and concepts 
 * A brief overview of Kaggle for independent learning
 * Publishing your independent projects using Github Pages
 
