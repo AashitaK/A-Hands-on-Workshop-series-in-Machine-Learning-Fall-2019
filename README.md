@@ -20,21 +20,40 @@ Each session of the workshop will build on the previous ones. It is important th
 Please bring your laptop fully charged and with WiFi connection. Please [download and install Anaconda with Python 3.7 version](https://www.anaconda.com/distribution/) in your laptop ahead of the workshop.  
 
 ### Topics to be covered:  
-#### Sessions 1-3: 
-* Data manipulation using `pandas`
-* Data visualization using `matplotlib` and `seaborn`
-* Traditional machine learning algorithms including Decision Trees, Random Forest, Support Vector Machines (SVM), k-Nearest Neighbors (k-NN) using `scikit-learn`
-* Underfitting and Overfitting to the training dataset, Cross-validation and k-fold Cross-validation
-* Imbalanced datasets 
-* Classification metrices - Confusion matrix, Decision Threshold, Precision/Recall, F1-score, Area Under ROC curve, etc.
-* Application of the above tools and concepts to build a prediction model using Election Dataset by [ANES](https://electionstudies.org/)
-* Publishing independent projects and sharing work using Github Pages and Kaggle
+
+#### Sessions 1:
+* Introduction to Jupyter Notebook
+* Pandas dataframes as a data structure
+* Indexing and slicing data frames
+* Data exploration 
+* Basic statistical plots using `matplotlib` and `seaborn`
+* Detecting and filling missing values
+* Regular expressions for text mining
+* Encoding categorical variables
+* Correlation between variables
+
+#### Sessions 2:
+* More on `pandas` - Groupby operations
+* Machine Learning algorithms: Decision Trees and Random Forest using `scikit-learn`
+* Underfitting and Overfitting to the training dataset, Model cross-validation 
+* Mini-project: Build a prediction model using Election Dataset by [American National Election Study](https://electionstudies.org/) using the above tools and concepts 
+* A brief overview of Kaggle for independent learning
+* Publishing your independent projects using Github Pages
+
+#### Sessions 3:
+* Machine Learning algorithms: Support Vector Machines (SVM) and k-Nearest Neighbors (k-NN) using `scikit-learn`
+* k-fold Cross-validation 
+* Application of the above two classification algorithms on Election Dataset by [American National Election Study](https://electionstudies.org/)
+* Classification metrices - Confusion matrix, Decision Threshold, Precision/Recall, F1-score, Area Under ROC curve, etc. 
+* Handling imbalanced datasets 
+* Another mini-project involving an imbalanced dataset: TBD 
 
 #### Session 4: 
-* Building the intuition of the training process of neural networks using the cost function and gradient descent algorithm in linear and logistic regression.
+* Machine Learning algorithms: Linear Regression and Logistic Regression
+* Building the intuition of the training process and architecture of neural networks  
 * Multi-Layer Perception: Forward and Backward propagation
 * A primer on `Keras`
-* Training a neural network on Election Dataset by [ANES](https://electionstudies.org/)
+* Training a neural network on Election Dataset by [American National Election Study](https://electionstudies.org/)
 
 #### Session 5:
 * Vanishing gradient problem in deep networks
