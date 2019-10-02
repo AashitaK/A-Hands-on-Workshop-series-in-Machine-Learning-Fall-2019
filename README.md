@@ -37,7 +37,6 @@ Please bring your laptop fully charged and with WiFi connection. Please [downloa
 * Machine Learning algorithms: Decision Trees and Random Forest using `scikit-learn`
 * Underfitting and Overfitting to the training dataset, Model cross-validation 
 * Mini-project: Building a prediction model using Election Dataset by [American National Election Study](https://electionstudies.org/) using the above tools and concepts 
-* A brief overview of Kaggle for independent learning
 * Publishing your independent projects using Github Pages
 
 #### Sessions 3:
@@ -76,8 +75,9 @@ Please bring your laptop fully charged and with WiFi connection. Please [downloa
 * Autoencoders
 * An overview of computing and dataset resources
 * Using Anaconda as a package management and environment management tool
+* A brief overview of Kaggle
 * A small project
-* Open questions
+* Open questions and discussion
 
 ***The topics may be shuffled around and added/eliminated without notice, in view of time-constraint for the two hour sessions, as the learning material is being build on.***
 
