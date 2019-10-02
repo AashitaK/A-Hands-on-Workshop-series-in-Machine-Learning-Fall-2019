@@ -32,6 +32,8 @@ Please bring your laptop fully charged and with WiFi connection. Please [downloa
 * Encoding categorical variables
 * Correlation between variables
 
+[![Session 1 open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AashitaK/A-Hands-on-Workshop-series-in-Machine-Learning/blob/master/Session%201/Data%20Manipulation%20using%20pandas.ipynb)
+
 #### Sessions 2:
 * More on `pandas` - Groupby operations
 * Machine Learning algorithms: Decision Trees and Random Forest using `scikit-learn`
