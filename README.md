@@ -12,7 +12,7 @@ Each session of the workshop will build on the previous ones. It is important th
 
 #### Pre-requisites:
 1. The workshop will cover the data science and deep learning tools in the Python ecosystem from the scratch. Some familiarity with Python is a pre-requisite. If you have a grip on the basics of coding in some other language such as Javascript, that should suffice too. 
-2. Basics of probability and statistics
+2. Basics of Probability and Statistics
 3. Basics of Calculus
 4. Basics of Linear Algebra
 
