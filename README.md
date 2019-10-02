@@ -2,7 +2,7 @@
 Time: **5:45-7:45 pm** on 7 consecutive **Wednesdays** starting **Oct 02 to Nov 13, 2019**   
 Venue: **Aviation Room, Hoch-Shanahan Dining Commons, HMC**   
 
-[Registration](https://forms.gle/3VdVMqV1EctC7aiE6) is closed. The workshop material will be made available here along with the lecture capture after each session. 
+[Registration](https://forms.gle/3VdVMqV1EctC7aiE6) is closed. The workshop material will be made available [here](https://github.com/AashitaK/A-Hands-on-Workshop-series-in-Machine-Learning) along with the lecture capture after each session. 
 
 The workshop series is designed with a focus on the practical aspects of machine learning using real-world datasets and the tools in the Python ecosystem. It is targeted towards complete beginners familiar with Python but is also designed adaptively so that you will be challenged even if you have some familiarity with machine learning tools. 
 
@@ -55,8 +55,9 @@ Please bring your laptop fully charged and with WiFi connection. Please [downloa
 * Training a neural network on Election Dataset by [American National Election Study](https://electionstudies.org/)
 
 #### Session 5:
-* Vanishing gradient problem in deep networks
-* Various activation functions and when to use them
+* Vanishing gradients and exploding gradients in deep networks
+* Activation functions 
+* Weight Initialization
 * Regularization
 * Dropout
 * Tuning other hyper-parameters such as learning rate, number of epochs, etc.
