@@ -34,7 +34,7 @@ Please bring your laptop fully charged and with WiFi connection. Please [downloa
 
 [![Session 1 open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AashitaK/A-Hands-on-Workshop-series-in-Machine-Learning/blob/master/Session%201/Data%20Manipulation%20using%20pandas.ipynb)
 
-If you using Colab, please copy it to your Google Drive first so that you can save the changes you will make. The option `Copy to Drive` is at the top bar.
+If you are using Colab, please copy the notebook to your Google Drive first so that you can save the changes you will make. The option `Copy to Drive` is at the top bar.
 ![](https://raw.githubusercontent.com/GokuMohandas/practicalAI/master/images/copy_to_drive.png)
 
 #### Sessions 2:
