@@ -43,7 +43,6 @@ If you are using Colab, please copy the notebook to your Google Drive first so t
 * Machine Learning algorithms: Decision Trees and Random Forest using `scikit-learn`
 * Underfitting and Overfitting to the training dataset, Model cross-validation 
 * Mini-project: Building a prediction model using Election Dataset by [American National Election Study](https://electionstudies.org/) using the above tools and concepts 
-* Publishing your independent projects using Github Pages
 
 #### Sessions 3:
 * Machine Learning algorithms: Support Vector Machines (SVM) and k-Nearest Neighbors (k-NN) using `scikit-learn`
