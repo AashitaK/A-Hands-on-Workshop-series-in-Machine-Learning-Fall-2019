@@ -41,7 +41,7 @@ If you are using Colab, please copy the notebook to your Google Drive first so t
 #### Sessions 2:
 * More on `pandas` - Groupby operations
 * Machine Learning algorithms: Decision Trees and Random Forest using `scikit-learn`
-* Underfitting and Overfitting to the training dataset, Model cross-validation 
+* Underfitting and Overfitting to the training dataset; Model cross-validation 
 * Mini-project: Building a prediction model using Election Dataset by [American National Election Study](https://electionstudies.org/) using the above tools and concepts 
 
 #### Sessions 3:
