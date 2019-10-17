@@ -45,15 +45,12 @@ If you are using Colab, please copy the notebook to your Google Drive first so t
 * Mini-project: Building a prediction model using Election Dataset by [American National Election Study](https://electionstudies.org/) using the above tools and concepts 
 
 #### Sessions 3:
-* Machine Learning algorithms: Support Vector Machines (SVM) and k-Nearest Neighbors (k-NN) using `scikit-learn`
-* k-fold Cross-validation 
-* Application of the above two classification algorithms on Election Dataset by [American National Election Study](https://electionstudies.org/)
+* Machine Learning algorithms: Logistic Regression, Support Vector Machines (SVM) and k-Nearest Neighbors (k-NN) using `scikit-learn` 
+* Application of the above classification algorithms on Election Dataset by [American National Election Study](https://electionstudies.org/)
 * Classification metrices - Confusion matrix, Decision Threshold, Precision/Recall, F1-score, Area Under ROC curve, etc. 
-* Handling imbalanced datasets 
-* Another mini-project involving an imbalanced dataset: TBD 
 
 #### Session 4: 
-* Machine Learning algorithms: Linear Regression and Logistic Regression
+* Machine Learning algorithm: Linear Regression
 * Building the intuition of the training process and architecture of neural networks  
 * Multi-Layer Perception: Forward and Backward propagation
 * A primer on `Keras`
@@ -66,8 +63,6 @@ If you are using Colab, please copy the notebook to your Google Drive first so t
 * Regularization
 * Dropout
 * Tuning other hyper-parameters such as learning rate, number of epochs, etc.
-* Batch normalization
-* Dimensionality reduction techniques such as PCA
 * Application of the above concepts on Bike Sharing Dataset
 
 #### Session 6: 
@@ -78,7 +73,7 @@ If you are using Colab, please copy the notebook to your Google Drive first so t
 #### Session 7:
 * A brief overview of neural network frameworks/architectures used in Computer Vision
 * Transfer Learning
-* Autoencoders
+* Dimensionality reduction techniques such as PCA, LDA, etc.
 * An overview of computing and dataset resources
 * Using Anaconda as a package management and environment management tool
 * A brief overview of Kaggle
