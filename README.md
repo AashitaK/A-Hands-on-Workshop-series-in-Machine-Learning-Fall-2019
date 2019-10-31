@@ -5,7 +5,9 @@ Venue: **Aviation Room, Hoch-Shanahan Dining Commons, HMC**
 [Registration](https://forms.gle/3VdVMqV1EctC7aiE6) is open for the remaining sessions.   
 
 
-The learning material along with the solutions can be downloaded from [here](https://github.com/AashitaK/A-Hands-on-Workshop-series-in-Machine-Learning). Please [download and install Anaconda with Python 3.7 version](https://www.anaconda.com/distribution/) in your laptop and find the instructions for using Jupyter notebook in the [lecture capture](https://hmc.mediasite.com/mediasite/Catalog/Full/32dcdf5c4a154244ade5ee81e61be4f121) if you are new to it. 
+The learning material along with the solutions can be downloaded from [here](https://github.com/AashitaK/A-Hands-on-Workshop-series-in-Machine-Learning). The lecture capture is made available at this [link](https://hmc.mediasite.com/mediasite/Catalog/Full/32dcdf5c4a154244ade5ee81e61be4f121) where the recordings are uploaded after each session. 
+
+Please [download and install Anaconda with Python 3.7 version](https://www.anaconda.com/distribution/) in your laptop. If you are new to Jupyter notebook, please find the instructions for using it in the very [first session](https://hmc.mediasite.com/mediasite/Play/734d469becd14fcdbbec12786c43b50e1d?catalog=32dcdf5c4a154244ade5ee81e61be4f121). 
 
 The workshop series is designed with a focus on the practical aspects of machine learning using real-world datasets and the tools in the Python ecosystem. It is targeted towards complete beginners familiar with Python but is also designed adaptively so that you will be challenged even if you have some familiarity with machine learning tools. 
 
