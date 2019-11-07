@@ -66,12 +66,13 @@ If you are using Colab, please copy the notebook to your Google Drive first so t
 * Regularization
 * Dropout
 * Tuning other hyper-parameters such as learning rate, number of epochs, etc.
-* Application of the above concepts on Bike Sharing Dataset
+* Application of the above concepts on Election Dataset by [American National Election Study](https://electionstudies.org/)
 
 #### Session 6: 
 * Image preprocessing
+* Feature extraction using convolution filters
 * Convolution Neural Networks architecture (CNN)
-* Training a CNN model on MNIST dataset
+* Training a CNN model on CIFAR-10 dataset
 
 #### Session 7:
 * A brief overview of neural network frameworks/architectures used in Computer Vision
