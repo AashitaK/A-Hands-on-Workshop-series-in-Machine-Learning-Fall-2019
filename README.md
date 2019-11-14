@@ -2,10 +2,7 @@
 Time: **5:45-7:45 pm** on 7 consecutive **Wednesdays** starting **Oct 02 to Nov 13, 2019**   
 Venue: **Aviation Room, Hoch-Shanahan Dining Commons, HMC**   
 
-[Registration](https://forms.gle/3VdVMqV1EctC7aiE6) is open for the remaining sessions.   
-
-
-The learning material along with the solutions can be downloaded from [here](https://github.com/AashitaK/A-Hands-on-Workshop-series-in-Machine-Learning). The lecture capture is made available at this [link](https://hmc.mediasite.com/mediasite/Catalog/Full/32dcdf5c4a154244ade5ee81e61be4f121) where the recordings are uploaded after each session. [Sign-in](https://forms.gle/NT9JTFVBFpE2iD1RA)
+The learning material along with the solutions can be downloaded from [here](https://github.com/AashitaK/A-Hands-on-Workshop-series-in-Machine-Learning). The lecture capture is made available at this [link](https://hmc.mediasite.com/mediasite/Catalog/Full/32dcdf5c4a154244ade5ee81e61be4f121) where the recordings are uploaded after each session. 
 
 Please [download and install Anaconda with Python 3.7 version](https://www.anaconda.com/distribution/) in your laptop. If you are new to Jupyter notebook, please find the instructions for using it in the very [first session](https://hmc.mediasite.com/mediasite/Play/734d469becd14fcdbbec12786c43b50e1d?catalog=32dcdf5c4a154244ade5ee81e61be4f121). 
 
