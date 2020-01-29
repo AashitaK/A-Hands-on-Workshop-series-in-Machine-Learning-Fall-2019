@@ -45,9 +45,17 @@ If you are using Colab, please copy the notebook to your Google Drive first so t
 * Mini-project: Building a prediction model using Election Dataset by [American National Election Study](https://electionstudies.org/) using the above tools and concepts 
 
 #### Sessions 3:
-* Machine Learning algorithms: Logistic Regression, Support Vector Machines (SVM) and k-Nearest Neighbors (k-NN) using `scikit-learn` 
-* Application of the above classification algorithms on Election Dataset by [American National Election Study](https://electionstudies.org/)
-* Classification metrices - Confusion matrix, Decision Threshold, Precision/Recall, F1-score, Area Under ROC curve, etc. 
+* Machine Learning algorithms: 
+    * Logistic Regression
+    * Support Vector Machines (SVM) 
+    * k-Nearest Neighbors (k-NN) 
+* Application of the above classification algorithms using `scikit-learn` on Election Dataset by [American National Election Study](https://electionstudies.org/)
+* Classification metrices:
+    * Confusion matrix
+    * Decision Threshold
+    * Precision/Recall
+    * F1-score
+    * Area Under ROC curve 
 
 #### Session 4: 
 * Machine Learning algorithm: Linear Regression
